@@ -78,7 +78,7 @@ export default function ContactForm({ heading, color }) {
           </a>
           <a
             className="text-sm text-gray-300 flex items-center gap-2"
-            href="mailto:info@WebDev.com"
+            href="socialpulse23@gmail.com"
           >
             <span className="text-[#EA4335]">
               <FaEnvelope />

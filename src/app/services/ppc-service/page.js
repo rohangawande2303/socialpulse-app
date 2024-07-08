@@ -13,11 +13,11 @@ const sections = [
   {
     section: <Ppc/>
   },{
-    section: <WeHelp name={"PPC Services"}/>
+    // section: <WeHelp name={"PPC Services"}/>
   },{
-    section: <Trend/>
+    // section: <Trend/>
   },{
-    section: <ContactForm heading={`Get in <span class="highlight">Touch</span>`} color={"bg-slate-50"}/>
+    // section: <ContactForm heading={`Get in <span class="highlight">Touch</span>`} color={"bg-slate-50"}/>
   }
 ]
 const PpcService = () => {

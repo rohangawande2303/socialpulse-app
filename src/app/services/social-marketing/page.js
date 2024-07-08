@@ -14,13 +14,13 @@ const sections = [
     section: <Social/>
   },
   {
-    section: <WeHelp name={"Social Marketing"}/>
+    // section: <WeHelp name={"Social Marketing"}/>
   },
   {
-    section: <NeedService/>
+    // section: <NeedService/>
   },
   {
-    section: <ContactForm heading={`Get in <span class="highlight">Touch</span>`} color={"bg-slate-50"}/>
+    // section: <ContactForm heading={`Get in <span class="highlight">Touch</span>`} color={"bg-slate-50"}/>
   }
 ]
 const SocialMarketing = () => {
